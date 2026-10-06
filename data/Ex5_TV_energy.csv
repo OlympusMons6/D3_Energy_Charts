@@ -1,0 +1,588 @@
+brand,screen_tech,screensize,energy_consumpt,star2,count
+aiwa,LCD,24,91,4.5,1
+aiwa,LCD (LED),24,93.5,4.5,2
+aiwa,LCD (LED),31,124.5,5.25,2
+aiwa,LCD (LED),32,120.5,5.25,2
+aiwa,LCD,39,189,5,1
+aiwa,LCD (LED),39,148,6,1
+aiwa,LCD (LED),40,198,4.5,1
+aiwa,LCD (LED),42,210,4.5,1
+aiwa,LCD (LED),49,265,5,1
+aiwa,LCD (LED),50,211,6,1
+aiwa,OLED,50,276,5,1
+aiwa,LCD,55,320,5,1
+aiwa,LCD,64,404,5.5,1
+aiwa,LCD (LED),64,499,4.5,1
+aiwa,LCD (LED),65,468,4.5,1
+aiwa,LCD (LED),70,576,4.5,1
+akai,LCD (LED),24,64,6,6
+akai,LCD,31,104,6,1
+akai,LCD,32,90,6,1
+akai,LCD (LED),32,99.5,6,2
+akai,LCD,39,143.3333333,6,3
+akai,LCD,43,172,6,1
+akai,LCD,49,225,6,1
+akai,LCD,50,204,6,1
+akai,LCD (LED),50,202,6,1
+akai,LCD,55,272,6,1
+akai,LCD (LED),55,258,6,3
+akai,LCD (LED),58,301,6,1
+akai,LCD,65,369,6,2
+akai,LCD (LED),65,364.5,6,2
+akai,LCD,70,372,6,1
+akai,LCD,74,480,6,1
+akai,LCD (LED),75,439,6,2
+akai,LCD,85,600,6,1
+altius,LCD,24,66,6,1
+altius,LCD,32,90,6,1
+altius,LCD (LED),32,102,6,1
+aoa,LCD (LED),19,58,5,1
+aoa,LCD,32,119,5,1
+aoa,LCD,40,176,5,1
+aoa,LCD (LED),50,270,5,1
+avel innovations,LCD (LED),24,90.5,4.5,2
+avel innovations,LCD (LED),32,145,4.5,1
+bauhn,LCD,24,67,6,2
+bauhn,LCD (LED),24,65,6,3
+bauhn,LCD,31,104,6,1
+bauhn,LCD (LED),31,104,6,3
+bauhn,LCD,32,101,6,1
+bauhn,LCD (LED),32,101.3333333,6,6
+bauhn,LCD,39,151,6,3
+bauhn,LCD (LED),39,148.4,6,5
+bauhn,LCD (LED),40,189,5,3
+bauhn,LCD,41,157,6,1
+bauhn,LCD,43,172,6,3
+bauhn,LCD (LED),43,170,6,2
+bauhn,LCD,49,223.3333333,6,3
+bauhn,LCD (LED),49,220,6,1
+bauhn,LCD,50,220,6,1
+bauhn,LCD (LED),50,217.5,6,2
+bauhn,LCD,55,288.5,5.75,2
+bauhn,LCD (LED),55,261.4,6,5
+bauhn,LCD,57,290.3333333,6,3
+bauhn,LCD,58,298,6,1
+bauhn,LCD (LED),58,301,6,1
+bauhn,LCD,60,302.75,6,4
+bauhn,LCD,65,361.75,6,4
+bauhn,LCD (LED),65,361.75,6,4
+bauhn,LCD,70,403,6,9
+bauhn,LCD (LED),70,400,6,2
+bauhn,LCD,74,480,6,1
+bauhn,LCD,75,490,6,1
+bauhn,LCD (LED),75,445.3333333,6,3
+bauhn,LCD (LED),82,651,5.5,1
+bauhn,LCD,85,600,6,2
+blaupunkt,LCD,24,90.75,4.625,4
+blaupunkt,LCD (LED),24,82.57142857,5.142857143,7
+blaupunkt,LCD,31,130,5,2
+blaupunkt,LCD,32,118,5.5,1
+blaupunkt,LCD (LED),32,128.5,4.875,4
+blaupunkt,LCD,40,186,5,3
+blaupunkt,LCD (LED),40,176,5,1
+blaupunkt,LCD (LED),41,230,4.5,1
+blaupunkt,LCD,42,199,5,1
+blaupunkt,LCD (LED),42,224,4.5,2
+blaupunkt,LCD (LED),43,212,5,1
+blaupunkt,LCD (LED),49,301.5,4.5,2
+blaupunkt,LCD (LED),50,327.5,4.125,4
+blaupunkt,LCD,55,383.25,4.25,4
+blaupunkt,LCD (LED),55,331,5,2
+blaupunkt,LCD (LED),57,411.3333333,4.666666667,3
+blaupunkt,LCD (LED),58,387.5,4.75,2
+blaupunkt,LCD (LED),60,405,5,1
+blaupunkt,LCD,65,467,4.5,1
+blaupunkt,LCD (LED),65,437,5.1,5
+blaupunkt,LCD (LED),69,640,4,1
+blaupunkt,LCD,70,561,4.5,1
+blaupunkt,LCD (LED),70,620,4,2
+blaupunkt,LCD (LED),74,485,6,1
+blaupunkt,LCD,75,751.5,3.75,2
+blaupunkt,LCD (LED),75,700.4,4.3,5
+blaupunkt,LCD,85,861.5,4.25,2
+blaupunkt,LCD (LED),85,722,5,1
+blaupunkt,LCD (LED),86,988,4,1
+blaupunkt,LCD (LED),98,1284,4,1
+brooklyn,LCD (LED),32,125,5,1
+caixun,LCD (LED),24,68.76923077,5.807692308,13
+caixun,LCD,32,98,6,4
+caixun,LCD (LED),32,110.75,5.458333333,12
+caixun,LCD (LED),38,138,6,6
+caixun,LCD,39,155,5.5,4
+caixun,LCD (LED),40,151,6,6
+caixun,LCD (LED),41,159,6,6
+caixun,LCD (LED),42,162,6,6
+caixun,LCD,43,220,4.5,4
+caixun,LCD (LED),43,196,5,9
+caixun,LCD (LED),50,278,5,7
+caixun,LCD (LED),55,307,5,7
+chiq,LCD,24,82,5,1
+chiq,LCD (LED),24,80,5,2
+chiq,LCD (LED),31,117.8,5.4,5
+chiq,LCD (LED),32,133,4.75,2
+chiq,LCD (LED),39,186.2,5,5
+chiq,LCD (LED),42,231.3333333,4.666666667,3
+chiq,LCD (LED),49,268.6666667,5,3
+chiq,LCD (LED),55,358.25,4.5,4
+chiq,LCD (LED),57,380,4.75,2
+chiq,LCD (LED),64,500.2,4.6,5
+chiq,LCD (LED),65,572,4,1
+chiq,LCD (LED),70,481,5.5,1
+chiq,LCD,75,608,5,1
+chiq,LCD (LED),75,519,5.5,2
+chiq,LCD (LED),85,974,4,1
+chiq,LCD (LED),97,1233,4,1
+chiq,LCD (LED),98,1233,4,1
+concentric care,LCD (LED),24,110,3.5,1
+devanti,LCD (LED),32,101,6,1
+devanti,LCD (LED),39,182,5,1
+devanti,LCD (LED),50,276,5,1
+devanti,LCD (LED),65,474.5,4.75,2
+devanti,LCD (LED),75,760,4,1
+dgtec,LCD,39,149,6,1
+dgtec,LCD,55,256,6,1
+dgtec,LCD (LED),55,251,6,1
+dgtec,LCD (LED),65,366.5,6,2
+dynalink,LCD,24,76,5.5,1
+eko,LCD,24,78,5,1
+eko,LCD (LED),24,90,4.5,2
+eko,LCD,31,130,5,1
+eko,LCD,32,124.5,5.25,2
+eko,LCD (LED),32,129.7777778,4.888888889,9
+eko,LCD,40,182.3333333,5,3
+eko,LCD (LED),40,189.25,4.875,4
+eko,LCD (LED),41,230,4.5,2
+eko,LCD,42,260,3.5,1
+eko,LCD (LED),42,220.5,4.5,4
+eko,LCD,43,191,5.5,1
+eko,LCD (LED),43,212,5,1
+eko,LCD,46,245,5,1
+eko,LCD,49,376,3.5,1
+eko,LCD (LED),49,273,5,1
+eko,LCD (LED),50,304.4,4.6,5
+eko,LCD,55,363.875,4.5,8
+eko,LCD (LED),55,356.1428571,4.857142857,7
+eko,OLED,55,275,5.5,1
+eko,LCD (LED),57,298,6,1
+eko,LCD,58,346,5,1
+eko,LCD (LED),58,367.5,4.75,2
+eko,LCD,64,725,3,1
+eko,LCD,65,612.8333333,3.75,6
+eko,LCD (LED),65,491.9,4.65,10
+eko,LCD (LED),69,640,4,1
+eko,LCD,70,561.6666667,4.666666667,3
+eko,LCD (LED),70,670.6666667,3.833333333,3
+eko,LCD,75,750.6666667,4,6
+eko,LCD (LED),75,697,4.375,4
+eko,LCD (LED),85,1116,3,1
+elitelux,LCD (LED),58,343,5,1
+englaon,LCD (LED),22,102,4,1
+englaon,LCD (LED),24,90.33333333,4.722222222,9
+englaon,LCD (LED),30,158,4,3
+englaon,LCD (LED),32,152.25,4.375,4
+englaon,LCD (LED),34,175,4.5,3
+englaon,LCD (LED),40,140,6,3
+ffalcon,LCD (LED),31,104.5,5.75,2
+ffalcon,LCD (LED),39,162,5.5,2
+ffalcon,LCD (LED),42,169.5,5.875,4
+ffalcon,LCD (LED),49,198,6,3
+ffalcon,LCD (LED),55,226.6666667,6.333333333,3
+ffalcon,LCD (LED),64,299.25,6.5,4
+ffalcon,LCD (LED),75,470,5.833333333,3
+furrion,LCD,24,102.5,4.25,2
+furrion,LCD (LED),24,101.5,4.25,2
+gorilla,LCD (LED),31,104,6,1
+gorilla,LCD (LED),32,101,6,1
+gorilla,LCD (LED),39,182,5,1
+gorilla,LCD (LED),41,160,6,1
+gorilla,LCD (LED),43,200,5,1
+gorilla,LCD (LED),55,300,5.5,1
+hisense,LCD (LED),100,942,5.5,5
+hisense,LCD (LED),32,97.71428571,6,7
+hisense,LCD (LED),40,128.2857143,6.571428571,7
+hisense,LCD (LED),42,229,4.5,3
+hisense,LCD (LED),43,240.1111111,4.444444444,9
+hisense,LCD (LED),49,212,6,1
+hisense,LCD (LED),50,259.375,5.4375,8
+hisense,LCD (LED),55,353.7941176,4.838235294,34
+hisense,OLED,55,319,5,1
+hisense,LCD (LED),58,316.75,5.75,4
+hisense,LCD (LED),64,464,5,3
+hisense,LCD,65,638,3.5,1
+hisense,LCD (LED),65,507.8536585,4.634146341,41
+hisense,OLED,65,414,5.5,2
+hisense,LCD (LED),70,424.8333333,6,6
+hisense,LCD (LED),75,630.575,4.8625,40
+hisense,LCD (LED),85,806.7419355,4.838709677,31
+hisense,LCD (LED),98,1028,5,3
+hitachi,LCD,31,104,6,1
+hitachi,LCD,32,105,6,1
+hitachi,LCD,40,151,6,1
+hitachi,LCD (LED),41,160,6,1
+hitachi,LCD (LED),49,226,6,1
+hitachi,LCD (LED),55,271,6,1
+hitachi,LCD,57,298,6,1
+hitachi,LCD (LED),65,370,6,1
+hitachi,LCD,74,485,6,1
+hubbl,LCD (LED),65,240,7,1
+hubbl glass,LCD (LED),43,200,5,1
+hubbl glass,LCD (LED),55,240,6,1
+hyundai,LCD (LED),50,251.5,5.5,2
+hyundai,LCD (LED),55,268,6,1
+hyundai,LCD (LED),65,373,6,1
+hyundai,LCD (LED),75,613.5,5,2
+iluma,LCD,24,112,3.5,7
+iluma,LCD,32,119,5,7
+jvc,LCD (LED),24,70,5.5,1
+jvc,LCD,31,130,5,1
+jvc,LCD (LED),31,117,5.5,2
+jvc,LCD,32,119.4,5.3,5
+jvc,LCD (LED),32,125.8333333,5,6
+jvc,LCD (LED),39,148,6,1
+jvc,LCD,40,186,5,1
+jvc,LCD (LED),40,204.5,4.625,4
+jvc,LCD,41,230,4.5,1
+jvc,LCD,42,214.2,4.9,5
+jvc,LCD (LED),42,209,5,3
+jvc,LCD,43,196,5,1
+jvc,LCD,49,347.5,3.875,4
+jvc,LCD (LED),49,237.5,5.5,2
+jvc,LCD,50,374,3.5,1
+jvc,LCD (LED),50,225.3333333,5.666666667,3
+jvc,LCD,54,375,4.5,2
+jvc,LCD,55,396.4,4.1,5
+jvc,LCD (LED),55,279.2727273,5.590909091,11
+jvc,LCD,57,468,4,1
+jvc,LCD (LED),57,468,4,1
+jvc,LCD (LED),58,357,5,1
+jvc,LCD,64,512,4.5,3
+jvc,LCD (LED),64,456,5,9
+jvc,LCD (LED),65,430,5,1
+jvc,LCD,74,811,3.5,1
+jvc,LCD (LED),74,758,4,1
+jvc,LCD (LED),75,454.3333333,6,3
+jvc,LCD (LED),98,872,5.5,1
+kodak,LCD,32,90,6,1
+kodak,LCD,39,150,6,1
+kodak,LCD,55,256,6,1
+kodak,LCD,64,358,6,1
+kodak,LCD (LED),65,367,6,1
+kogan,LCD (LED),100,1497,3.5,7
+kogan,OLED,100,1670,3,4
+kogan,LCD,19,62,5,1
+kogan,LCD (LED),19,62,5,3
+kogan,LCD,22,95,3.5,5
+kogan,LCD,24,88.92857143,4.714285714,14
+kogan,LCD (LED),24,78.75862069,5.25862069,29
+kogan,LCD (LED),31,116.6,5.5,25
+kogan,LCD,32,131,5,7
+kogan,LCD (LED),32,128.6842105,5,19
+kogan,LCD (LED),39,148.6,6,20
+kogan,LCD (LED),40,165.8,5.533333333,15
+kogan,LCD (LED),41,176.8571429,5.642857143,14
+kogan,LCD,42,240,4.5,1
+kogan,LCD (LED),42,244.1935484,4.387096774,31
+kogan,LCD (LED),43,200.9166667,5.166666667,12
+kogan,OLED,48,331,4,6
+kogan,LCD,49,313,4.5,1
+kogan,LCD (LED),49,294.3611111,4.763888889,36
+kogan,LCD (LED),50,304,4.693548387,31
+kogan,LCD,55,415,4,1
+kogan,LCD (LED),55,335.7323944,5.014084507,71
+kogan,OLED,55,384.5714286,4.428571429,7
+kogan,LCD (LED),57,448,4,1
+kogan,LCD (LED),58,336.0833333,5.375,12
+kogan,LCD,60,405,5,6
+kogan,LCD,64,477,4.75,2
+kogan,LCD (LED),64,457.9166667,5.055555556,36
+kogan,LCD (LED),65,470.0652174,4.945652174,46
+kogan,OLED,65,477.1428571,4.857142857,7
+kogan,LCD (LED),69,532,5,2
+kogan,LCD,70,515,5,1
+kogan,LCD (LED),70,585.5,4.6,20
+kogan,LCD,75,667,4.5,1
+kogan,LCD (LED),75,618.9827586,4.879310345,58
+kogan,OLED,77,540,5.5,4
+kogan,LCD (LED),81,793,4.25,2
+kogan,LCD (LED),85,986.7619048,3.952380952,21
+kogan,LCD (LED),86,1117,3.5,5
+kogan,LCD (LED),97,1233,4,1
+kogan,LCD (LED),98,1233,4,11
+konka,LCD (LED),32,131,5,2
+konka,LCD (LED),40,189,5,2
+konka,LCD (LED),50,285,5,2
+konka,LCD (LED),55,341,5,2
+lad,LCD (LED),43,199,5,1
+lg,LCD (LED),24,95,4.5,1
+lg,LCD (LED),28,95,5.5,1
+lg,LCD (LED),32,109,5.5,5
+lg,OLED,42,237.2307692,4.346153846,13
+lg,LCD (LED),43,261.0625,4,48
+lg,OLED,48,288.9,4.425,20
+lg,LCD (LED),49,293.9193548,4.612903226,62
+lg,LCD (LED),50,305,4.5,1
+lg,LCD (LED),55,364.3013699,4.568493151,73
+lg,OLED,55,361.0238095,4.511904762,42
+lg,LCD (LED),65,480.5465116,4.674418605,86
+lg,OLED,65,448.4893617,4.989361702,47
+lg,LCD (LED),70,560.75,4.625,4
+lg,LCD (LED),75,584.0769231,5.070512821,78
+lg,OLED,77,637.0571429,4.985714286,35
+lg,LCD (LED),82,773,4.5,1
+lg,OLED,83,708.7,5.075,20
+lg,LCD (LED),86,819.6727273,4.718181818,55
+lg,OLED,88,1212.8,3,5
+lg,OLED,97,848.2857143,5.714285714,7
+lg,LCD (LED),98,1260,4.1,10
+linsar,LCD,24,67.5,6,2
+linsar,LCD,32,98.5,6,4
+linsar,LCD (LED),32,102,6,1
+linsar,LCD,40,151,6,2
+linsar,LCD (LED),40,144,6,1
+linsar,LCD,43,172,6,1
+linsar,LCD,49,222.5,6,2
+linsar,LCD (LED),49,225,6,1
+linsar,LCD (LED),50,210,6,1
+linsar,LCD,55,272,6,2
+linsar,LCD (LED),55,256,6,1
+linsar,LCD,58,298,6,1
+linsar,LCD,60,309.5,6,2
+linsar,LCD,65,365,6,2
+linsar,LCD (LED),65,359.5,6,2
+linsar,LCD (LED),70,379.5,6,2
+linsar,LCD,74,480,6,1
+linsar,LCD (LED),75,474.5,6,2
+linsar,LCD,82,628,5.5,2
+linsar,LCD (LED),82,651,5.5,1
+linsar,LCD,85,605,6,2
+linsar,LCD,86,630,6,1
+linsar,LCD,98,823,6,1
+loewe,LCD (LED),32,127,5,3
+loewe,LCD (LED),42,243,4,3
+loewe,OLED,48,274,4.5,1
+loewe,LCD (LED),49,251,5.5,1
+loewe,LCD (LED),55,309,5,1
+loewe,OLED,55,354,4.5,1
+loewe,OLED,65,467.5,4.75,2
+loewe,OLED,76,395,7,1
+loewe,OLED,77,833,3.5,1
+lsp tv,LCD (LED),19,60,5,1
+metz,LCD (LED),32,115,5.5,1
+metz,LCD (LED),40,122,7,1
+metz,OLED,55,424,4,1
+metz,OLED,65,586,4,1
+metz,LCD (LED),86,893,4.5,1
+mitsumaru,LCD (LED),32,131,5,1
+monster,LCD (LED),24,66,6,1
+monster,LCD,32,90,6,1
+myvi,LCD,24,85,5,1
+myvi,LCD (LED),24,90,4.75,2
+palsonic,LCD (LED),39,175,5,1
+palsonic,LCD (LED),55,300,5.5,1
+palsonic,LCD (LED),65,439,5,1
+philips,LCD (LED),19,61.33333333,5,3
+philips,LCD (LED),23,65,6,1
+philips,LCD (LED),24,69,5.5,1
+philips,LCD (LED),32,132.9090909,4.818181818,11
+philips,LCD (LED),40,167,5.5,1
+philips,LCD (LED),42,248.5454545,4.272727273,11
+philips,LCD,43,234,4.5,1
+philips,LCD (LED),43,228.5,4.6875,8
+philips,LCD (LED),48,175,7,1
+philips,LCD (LED),49,304.1818182,4.454545455,11
+philips,LCD (LED),50,325.4285714,4.285714286,7
+philips,LCD,55,280,5.5,1
+philips,LCD (LED),55,388.4074074,4.388888889,27
+philips,OLED,55,570.75,2.75,4
+philips,LCD (LED),58,330.6666667,5.5,3
+philips,LCD (LED),64,483,4.5,1
+philips,LCD,65,534.75,4.375,4
+philips,LCD (LED),65,490.2272727,4.659090909,22
+philips,OLED,65,645.6666667,3.833333333,3
+philips,LCD,70,516,5,1
+philips,LCD (LED),70,574.2857143,4.571428571,7
+philips,LCD,75,478,6,3
+philips,LCD (LED),75,600,4.9,15
+philips,OLED,78,798,4,1
+philips,LCD (LED),85,463,7,1
+philips,LCD (LED),86,922.5,4.25,2
+polaroid,LCD (LED),24,68,6,1
+polaroid,LCD,31,104,6,1
+polaroid,LCD,32,102.3333333,6,3
+polaroid,LCD (LED),32,98,6,1
+polaroid,LCD,39,149,6,1
+polaroid,LCD,40,151,6,2
+polaroid,LCD (LED),50,202,6,1
+polaroid,LCD,54,254,6,1
+polaroid,LCD,55,294,5.5,1
+polaroid,LCD (LED),55,273,6,1
+polaroid,LCD,64,370,6,2
+polaroid,LCD (LED),65,367,6,1
+polaroid,LCD,70,397,6,1
+prism+,LCD (LED),55,349.3333333,4.833333333,3
+prism+,LCD (LED),65,438.3333333,5.166666667,3
+prism+,LCD (LED),75,625,4.75,2
+qbell,LCD (LED),32,131,5,2
+qbell,LCD (LED),40,189,5,1
+qbell,LCD (LED),50,342,4,2
+qbell,LCD,55,339,5,1
+qbell,LCD (LED),70,620,4,2
+s vision,LCD (LED),55,379,4.5,1
+samsung,LCD (LED),31,135.4545455,4.727272727,11
+samsung,LCD (LED),32,182,3.5,3
+samsung,LCD (LED),39,218,4,1
+samsung,LCD (LED),42,286.1111111,3.569444444,36
+samsung,LCD (LED),43,275.5522388,3.78358209,67
+samsung,LCD (LED),48,295,4.5,1
+samsung,LCD (LED),49,329.606383,4.164893617,94
+samsung,LCD (LED),50,323.2,4.2,10
+samsung,LCD (LED),55,423.6174863,3.969945355,183
+samsung,LCD (LED),57,344,5,9
+samsung,LCD (LED),60,406.5,4.75,2
+samsung,LCD (LED),64,678.4594595,3.378378378,37
+samsung,LCD (LED),65,593.1693989,3.904371585,183
+samsung,LCD (LED),67,507,4.5,3
+samsung,LCD (LED),69,496,5,3
+samsung,LCD (LED),70,492,5,4
+samsung,LCD (LED),75,753.8924731,4.051075269,186
+samsung,LCD (LED),77,731.3636364,4.272727273,11
+samsung,LCD (LED),82,948.5,3.75,6
+samsung,LCD (LED),83,722.2,4.9,5
+samsung,LCD (LED),85,880.9407407,4.314814815,135
+samsung,LCD (LED),98,1207.533333,4.133333333,15
+seiki,LCD (LED),65,496,4.5,1
+sharetv,LCD,21,106,3,1
+sharp,LCD (LED),32,117.5,5.25,2
+sharp,LCD (LED),42,187,5.25,2
+sharp,LCD (LED),49,312,4.5,1
+sharp,LCD (LED),60,489,4,2
+sharp,LCD (LED),70,563.3333333,4.666666667,3
+"shenzhen xinchaoda technology co., ltd",LCD (LED),55,371.5,4.5,2
+"shenzhen xinchaoda technology co., ltd",LCD (LED),65,385.5,5.75,2
+signify,LCD (LED),55,378,4.5,1
+skyworth,LCD (LED),55,303,5.5,3
+skyworth,LCD (LED),86,893,4.5,5
+smarttech,LCD (LED),31,110,5.5,1
+smarttech,LCD (LED),39,151,6,1
+smarttech,LCD (LED),50,210,6,1
+smarttech,LCD (LED),55,247,6,1
+smarttech,LCD (LED),65,386,5.5,1
+smtv,LCD (LED),42,188,5.5,1
+smtv,LCD (LED),50,280,5,1
+smtv,LCD (LED),55,347,4.5,2
+smtv,LCD (LED),64,400,5.5,2
+soniq,LCD (LED),24,86,5,1
+soniq,LCD,42,178,5.5,1
+soniq,LCD (LED),42,193,5,1
+soniq,LCD,50,311,4.5,1
+soniq,LCD,55,476,3.5,1
+soniq,LCD,57,337,5,1
+soniq,LCD,65,483,4.666666667,3
+soniq,LCD,66,391,6,1
+soniq,LCD,75,855,3.5,1
+sony,LCD (LED),32,120.5,5,2
+sony,LCD (LED),42,267.8333333,3.833333333,6
+sony,OLED,42,256,4,1
+sony,OLED,48,315,4,1
+sony,LCD (LED),49,347.6,4,5
+sony,LCD (LED),55,458.6666667,3.466666667,15
+sony,OLED,55,404,3.9,5
+sony,LCD,65,642,3.5,1
+sony,LCD (LED),65,579.4444444,3.777777778,18
+sony,OLED,65,482.5,4.666666667,6
+sony,LCD,75,763,4,1
+sony,LCD (LED),75,744.4,3.9,15
+sony,LCD (LED),77,693,4.5,1
+sony,OLED,77,591.5,5.25,4
+sony,OLED,83,765,4.5,1
+sony,LCD,85,818,4.5,1
+sony,LCD (LED),85,949.25,3.958333333,12
+sony,LCD (LED),98,944,5,1
+sphere,LCD (LED),19,67,4.5,2
+sphere,LCD (LED),22,93,4,3
+sphere,LCD (LED),24,84.4,4.9,5
+sphere,LCD (LED),27,92,5.5,3
+stan cash,LCD (LED),18,60,5,1
+starvision,LCD (LED),32,101,6,1
+starvision,LCD (LED),39,175,5,1
+svision,LCD (LED),32,151,4,1
+svision,LCD (LED),43,159,6,1
+svision,LCD,50,315,4.5,1
+svision,LCD (LED),50,288,4.5,1
+svision,LCD (LED),58,420,4.5,1
+svision,LCD (LED),64,520,4.5,1
+sylvox,LCD (LED),16,57.33333333,4.5,3
+sylvox,LCD (LED),21,68,5,1
+sylvox,LCD (LED),24,66.16666667,5.916666667,12
+sylvox,LCD,27,59,7,1
+sylvox,LCD (LED),32,102.4166667,5.916666667,12
+sylvox,LCD,40,92,8,1
+sylvox,LCD (LED),43,397,2,1
+sylvox,LCD (LED),55,651,2,1
+sylvox,LCD (LED),65,902,2,1
+sylvox,LCD (LED),75,1122,2,1
+tavice,LCD,65,477,4.5,1
+tcl,LCD (LED),114,2652,2,1
+tcl,LCD (LED),31,110,5.5,1
+tcl,LCD (LED),39,180,5,1
+tcl,LCD (LED),42,216.7777778,4.777777778,9
+tcl,LCD (LED),49,278.1111111,5,9
+tcl,LCD (LED),55,378.0625,4.5,16
+tcl,LCD (LED),57,251,6,1
+tcl,LCD (LED),64,526.4117647,4.470588235,17
+tcl,LCD (LED),75,744.75,4.09375,16
+tcl,LCD (LED),85,945.4285714,4.178571429,14
+tcl,LCD (LED),97,1110.5,4.666666667,6
+teac,LCD,19,60,5,2
+teac,LCD,24,85,5,1
+teac,LCD (LED),24,83,5,1
+teac,LCD (LED),31,110,5.5,1
+teac,LCD,32,127,5,2
+teac,LCD (LED),32,119.4,5.2,5
+teac,LCD,40,188,5,1
+teac,LCD,49,275,5,1
+teac,LCD (LED),50,210,6,1
+teac,LCD (LED),55,247,6,1
+teac,LCD,58,365,5,1
+teac,LCD,65,450,5,1
+teac,LCD (LED),65,386,5.5,1
+teac,LCD (LED),70,560,4.5,1
+teac,LCD,75,595,5,2
+teac,LCD (LED),75,750,4,1
+teac,LCD,82,720,5,2
+teco,LCD (LED),19,75,4,2
+teco,LCD (LED),22,76,4.5,1
+teco,LCD (LED),24,68.5,5.75,2
+teco,LCD (LED),31,140,4.5,1
+teco,LCD (LED),32,122.5,5.25,2
+teco,LCD (LED),42,214,5,1
+teco,LCD (LED),57,349,5,1
+teco,LCD (LED),64,404,5.5,1
+teco,LCD (LED),70,532,5,1
+telefunken,LCD,24,107,4,1
+telefunken,LCD (LED),32,131,5,1
+telefunken,LCD (LED),55,379,4.5,1
+thomson,LCD (LED),40,184,5,1
+thomson,LCD (LED),42,194,5.5,1
+thomson,LCD (LED),43,175.3333333,5.666666667,3
+toshiba,LCD (LED),100,1070,5,1
+toshiba,LCD (LED),32,97,6,1
+toshiba,LCD (LED),43,215.2,5.1,5
+toshiba,LCD (LED),50,268,5.125,4
+toshiba,LCD (LED),55,349.75,4.9375,8
+toshiba,LCD (LED),64,369,6,1
+toshiba,LCD (LED),65,466.1428571,4.928571429,7
+toshiba,LCD (LED),75,562.2857143,5.428571429,7
+toshiba,LCD (LED),85,847.6666667,4.666666667,3
+vdt,LCD (LED),22,78,4.5,1
+veon,LCD (LED),40,175,5,1
+veon,LCD (LED),58,450,4,1
+viano,LCD (LED),24,76,5.5,1
+viano,LCD (LED),49,352,4,1
+walton,LCD (LED),32,115,5.5,7
+walton,LCD (LED),40,135,6,7
+walton,LCD (LED),43,138.6,7,10
+yokohama,LCD,24,92,4.5,1
+yokohama,LCD (LED),24,76,5.5,1
+yokohama,LCD,55,278,5.5,1
+yokohama,LCD,65,542,4,1

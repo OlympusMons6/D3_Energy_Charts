@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Four responsive D3 charts exploring TV energy consumption and Australian electricity spot prices using the Exercise 5 datasets.">
+  <title>Energy in perspective · D3 charts</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23132f4c'/%3E%3Cpath d='M8 23V16M16 23V8M24 23V12' stroke='%235de0c2' stroke-width='4'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="css/styles.css">
+  <!-- defer preserves script order and waits for the HTML to be parsed. -->
+  <script defer src="vendor/d3.v7.9.0.min.js"></script>
+  <script defer src="charts/utils.js"></script>
+  <script defer src="charts/scatter.js"></script>
+  <script defer src="charts/donut.js"></script>
+  <script defer src="charts/bar.js"></script>
+  <script defer src="charts/line.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#charts">Skip to charts</a>
+  <header class="page-header">
+    <div class="header-inner">
+      <div class="masthead"><span class="wordmark">ENERGY / DATA</span><span>EXERCISE 05 · D3</span></div>
+      <div class="intro">
+        <div><p class="eyebrow">TV efficiency & electricity prices</p><h1>Energy in perspective.</h1></div>
+        <p>Explore how television ratings, screen technologies and electricity prices relate to energy use. Four views of the supplied data, together on one page.</p>
+      </div>
+    </div>
+  </header>
+
+  <main id="charts" class="page-content">
+    <div class="section-intro">
+      <p><strong>Read the data.</strong> Hover or tap a mark for details. Keyboard users can focus a chart and use the arrow keys.</p>
+      <ul class="legend" aria-label="Screen technology colours">
+        <li><span class="swatch lcd"></span>LCD</li>
+        <li><span class="swatch led"></span>LED</li>
+        <li><span class="swatch oled"></span>OLED</li>
+      </ul>
+    </div>
+    <noscript><p class="error">JavaScript is required to draw these charts. Enable it and reload the page.</p></noscript>
+
+    <div class="chart-grid">
+      <article class="chart-card" aria-labelledby="scatter-heading">
+        <div class="card-heading"><span class="chart-number">01</span><div><p class="chart-type">Scatter plot</p><h2 id="scatter-heading">Do more stars mean less energy?</h2></div></div>
+        <p class="chart-subtitle">Star rating and labelled annual consumption across all screen sizes.</p>
+        <div id="scatter-chart" class="chart-frame" aria-busy="true"><p class="loading" role="status">Loading TV records…</p></div>
+        <p id="scatter-readout" class="readout" aria-live="polite" aria-atomic="true">Select a point to inspect its TV record.</p>
+        <p class="chart-note">Each point is one CSV record, which may represent multiple TVs through its <code>count</code> field. Screen size also affects consumption; overlapping points are retained.</p>
+        <details class="data-details"><summary>View scatter plot data</summary><div id="scatter-table" class="table-scroll" tabindex="0" role="region" aria-label="Scrollable TV records table"></div></details>
+      </article>
+
+      <article class="chart-card" aria-labelledby="donut-heading">
+        <div class="card-heading"><span class="chart-number">02</span><div><p class="chart-type">Donut chart</p><h2 id="donut-heading">Screen technology, all sizes</h2></div></div>
+        <p class="chart-subtitle">Relative mean energy consumption for LCD, LED and OLED.</p>
+        <div id="donut-chart" class="chart-frame" aria-busy="true"><p class="loading" role="status">Loading technology averages…</p></div>
+        <p id="donut-readout" class="readout" aria-live="polite" aria-atomic="true">Select a segment to inspect its average consumption.</p>
+        <p class="chart-note"><strong>How to read the percentages:</strong> each technology’s mean divided by the sum of the three means. These are not shares of total TV energy use or sales.</p>
+        <details class="data-details"><summary>View donut chart data</summary><div id="donut-table" class="table-scroll" tabindex="0" role="region" aria-label="Scrollable all-sizes technology table"></div></details>
+      </article>
+
+      <article class="chart-card" aria-labelledby="bar-heading">
+        <div class="card-heading"><span class="chart-number">03</span><div><p class="chart-type">Bar chart</p><h2 id="bar-heading">A closer comparison: 55-inch TVs</h2></div></div>
+        <p class="chart-subtitle">Mean labelled annual consumption at the same screen size.</p>
+        <div id="bar-chart" class="chart-frame" aria-busy="true"><p class="loading" role="status">Loading 55-inch averages…</p></div>
+        <p id="bar-readout" class="readout" aria-live="polite" aria-atomic="true">Select a bar to inspect its average consumption.</p>
+        <p class="chart-note">The zero baseline preserves the size of the differences. These supplied group averages describe the dataset, not every TV within a technology.</p>
+        <details class="data-details"><summary>View bar chart data</summary><div id="bar-table" class="table-scroll" tabindex="0" role="region" aria-label="Scrollable 55-inch technology table"></div></details>
+      </article>
+
+      <article class="chart-card" aria-labelledby="line-heading">
+        <div class="card-heading"><span class="chart-number">04</span><div><p class="chart-type">Line chart</p><h2 id="line-heading">Electricity prices through time</h2></div></div>
+        <p class="chart-subtitle">Annual average spot price, 1998–2024 · A$/MWh.</p>
+        <div id="line-chart" class="chart-frame" aria-busy="true"><p class="loading" role="status">Loading annual prices…</p></div>
+        <p id="line-readout" class="readout" aria-live="polite" aria-atomic="true">Select a year to inspect its average spot price.</p>
+        <p class="chart-note">Uses the supplied average of Queensland, New South Wales, Victoria and South Australia. Excludes Tasmania and Snowy. Wholesale spot prices are not household electricity tariffs.</p>
+        <details class="data-details"><summary>View line chart data</summary><div id="line-table" class="table-scroll" tabindex="0" role="region" aria-label="Scrollable annual spot price table"></div></details>
+      </article>
+    </div>
+
+    <section class="methodology" aria-labelledby="method-heading">
+      <div><p class="eyebrow">Behind the charts</p><h2 id="method-heading">Small files. One clear workflow.</h2><p>Find → load → format → measure → bind → scale. Each chart follows the D3 workflow from the activity.</p></div>
+      <details><summary>How the code works</summary>
+        <ol>
+          <li><strong>Load and validate.</strong> Each chart loads its own CSV once with <code>d3.csv()</code>. Exact column names are checked, and numeric strings are converted explicitly.</li>
+          <li><strong>Measure and scale.</strong> <code>ResizeObserver</code> watches each chart’s width. The SVG, scales and axis ticks are recalculated for the available space.</li>
+          <li><strong>Bind and draw.</strong> <code>.data().join()</code> reuses marks when the chart redraws. Linear scales position numbers, a band scale positions bars, and <code>d3.pie()</code> with <code>d3.arc()</code> builds the donut.</li>
+          <li><strong>Keep responsibilities clear.</strong> <code>charts/scatter.js</code>, <code>donut.js</code>, <code>bar.js</code> and <code>line.js</code> own their charts. <code>utils.js</code> shares validation, colours, axes, resizing and accessible tables.</li>
+          <li><strong>Keep the data honest.</strong> Means remain means, missing values are not silently converted to zero, and the price line uses straight segments between observed years.</li>
+        </ol>
+        <p>The included <a href="README.md">README</a> explains the code, data choices and local setup in more detail.</p>
+      </details>
+    </section>
+  </main>
+
+  <footer class="page-footer"><span>Source: the four supplied Exercise 5 CSV files.</span><span>Built with D3 v7.9.0 · <a href="https://d3js.org/" target="_blank" rel="noopener noreferrer">D3 documentation</a></span></footer>
+</body>
+</html>
